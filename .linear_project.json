@@ -1,0 +1,25 @@
+{
+  "project_id": "78342630-acf4-4269-9aba-54d4e1b7ab7a",
+  "project_name": "PromptShield - LLM Prompt Injection Detector",
+  "project_slug": "0263a9f7f483",
+  "team_id": "488a02b5-c546-4242-95fb-bf6caf038fa1",
+  "team_key": "M2A",
+  "meta_issue_id": "M2A-325",
+  "total_issues": 2,
+  "initialized": true,
+  "created_at": "2026-03-25T20:55:20.018Z",
+  "issues": [
+    {
+      "id": "M2A-323",
+      "title": "Feature 1: Prompt Injection Detection",
+      "status": "Todo",
+      "uuid": "632be7d5-73a1-41bc-a5e2-2621950f49a5"
+    },
+    {
+      "id": "M2A-324",
+      "title": "Feature 2: Response Safety Validation",
+      "status": "Todo",
+      "uuid": "3f80078c-30db-4438-b37e-723ceb65fb00"
+    }
+  ]
+}
